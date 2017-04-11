@@ -12,6 +12,6 @@ Javascript Calculator can do simple math, As well as chaining mathematical opera
 
 
 ***
-## Behind seen
+## Info
 
-Coded with native Javascript, No jQuery used.
+Coded in native Javascript, No jQuery used.
